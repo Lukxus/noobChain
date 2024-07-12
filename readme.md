@@ -58,3 +58,7 @@ NoobCoin é uma criptomoeda simples desenvolvida em Java, projetada para demonst
 ## Conclusão
 
 Este projeto demonstra os conceitos fundamentais de criptomoedas e blockchain de maneira prática e acessível. Ao seguir este tutorial, você entenderá melhor como funcionam as transações, a geração de chaves, a mineração e a validação em um sistema de criptomoeda simples.
+
+
+Fontes:
+https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa
